@@ -27,7 +27,7 @@ body {
 }
 #navBar {
   position: fixed;
-  top: 1.25rem; 
+  top: 1.25rem;
   width: 100%;
   padding: 1.25rem 3.125rem;
   display: flex;
@@ -72,7 +72,7 @@ body {
   background-color: #23252d;
   z-index: 2;
   position: relative;
-  padding: 3.125rem;;
+  padding: 3.125rem;
   display: flex;
   gap: 9.375rem;
 }
@@ -103,9 +103,7 @@ h1 {
   font-size: 4.375rem;
 }
 #persInfo {
-  
   width: 33.125rem;
-  
 }
 
 #persInfo h1 {
@@ -427,7 +425,7 @@ footer {
 
   #name h2 {
     font-size: 2.5rem;
-    margin-top: -;
+    margin-top: -60px;
   }
 
   #role h3 {
